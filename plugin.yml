@@ -1,7 +1,7 @@
 name: EconomyProperty
-main: onebone\economyproperty\EconomyProperty
+main: BrokenItZAndrei100\economyproperty\EconomyProperty
 version: 2.0.8
-author: onebone
+author: BrokenItZAndrei100
 api: [3.0.0]
 depend:
 - EconomyLand
