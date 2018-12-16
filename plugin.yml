@@ -2,7 +2,7 @@ name: EconomyProperty
 main: BrokenItZAndrei100\economyproperty\EconomyProperty
 version: 2.0.8
 author: BrokenItZAndrei100
-api: [3.0.0]
+api: [3.0.0, 3.5.0, 4.0.0]
 depend:
 - EconomyLand
 - EconomyAPI
